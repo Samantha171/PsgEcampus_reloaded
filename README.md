@@ -1,8 +1,9 @@
 # PSG eCampus Reloaded
 
 ### Team Members
-- **ASHRITHAA JAYAPRAKASH SUGANYA** (23PW02)
 - **SAMANTHA W** (23PW25)
+- **ASHRITHAA JAYAPRAKASH SUGANYA** (23PW02)
+
 
 ## Overview
 PSG eCampus Reloaded reimagines the essential functions of the PSG College of Technology’s eCampus system, designed to support students with a simplified interface that’s both practical and effective. Focused on key student needs like course management, attendance tracking, and performance evaluation, this application integrates these features in a clean, modular framework that follows Object-Oriented Programming (OOP) principles. It’s a lightweight alternative that offers core academic tools without the extra frills, keeping everything straightforward and accessible. Leveraging OOP principles such as inheritance, encapsulation, and polymorphism, the system is crafted to be adaptable, easy to maintain, and open to future extensions.
